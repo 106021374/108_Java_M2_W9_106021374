@@ -5,5 +5,14 @@ public class M2Q18 {
         int n=scn.nextInt();
         int sum=0,d=0;
         String str="";
+        for(int i=1,i<n;i++){
+            j=i;
+            str="";
+            sum=0;
+            while (sum<n&&j<n){
+                sum+=j;
+                if(sum)
+            }
+        }
     }
 }
